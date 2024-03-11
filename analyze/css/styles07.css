@@ -1,7 +1,7 @@
 /*
-Author:
-Date:
-File Name: 
+Brandon Reyes
+3/11/2024
+File Name: styles07.css
 */
 
 /* CSS Reset */
@@ -82,6 +82,6 @@ footer {
 
 /* Media Query for Tablet Viewport */
 @media screen and (min-width: 700px), print {
-    
-    
+
+
 }
